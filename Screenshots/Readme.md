@@ -1,4 +1,0 @@
-# SCREENSHOTS OF THE MOBILE APPLICATION
-
-## LOGIN PAGE
-![Login Page Screen](./1%20-%20Login.jpg)
