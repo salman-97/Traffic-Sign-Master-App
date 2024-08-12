@@ -1,7 +1,7 @@
 ## Welcome to Traffic Sign Master 🚦
 _**Traffic Sign Master** is a cutting-edge mobile application that I developed as my Final Year Project at university. Built using **Flutter** for the Android front-end and **Python** for Machine Learning, with a **Flask API** powering the backend, this app is designed to educate and assist users in understanding traffic signs and their meanings._
 
-## PROJECT OVERVIEW
+## Project Overview
 _Traffic signs play a crucial role in road safety for both drivers and pedestrians. Despite their importance, there may be instances when you encounter a sign, you’re unfamiliar with. That's where **Traffic Sign Master** comes in handy!_
 
 **With this app, you can**
