@@ -1,0 +1,9 @@
+--- MUHAMMAD SALMAN ---
+
+I have uploaded the dataset on Kaggle as the size is 3GB.
+You can download the dataset from the link below, extract it and paste the 'Dataset' folder inside the Backend directory.
+
+File Structure Example:
+Backend>Dataset>Train
+
+Link: https://www.kaggle.com/datasets/msalman97/dataset-for-traffic-sign-master-app/
