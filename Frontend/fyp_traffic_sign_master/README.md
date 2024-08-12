@@ -2,5 +2,5 @@
 
 _Complete Frontend with all the screens of my mobile application created using **Flutter**_
 
-![Flutter Logo](./Screenshots/api/flutter.png)
+![Flutter Logo](../../Screenshots/api/flutter.png)
 
