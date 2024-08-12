@@ -32,14 +32,17 @@ _From the Bottom Navbar user can switch to Map Screen. This screen is integrated
 
 ## NEWS SCREEN
 _This screen is integrated with a News Webpage. I created this screen for learning purposes and to demonstrate how webpage is loaded in mobile app_
+
 ![News Screen](./mobileApp/9-News.jpg)
 
 ## APPLICATION NAVBAR
 _In my mobile application to increase the user friendliness I provide user to ways to navigate my application. Drawer and Bottom GNav Bar_
+
 ![Application Drawer](./mobileApp/10-Navbar.jpg)
 
 ## SELECT IMAGE SCREEN
 _From the Home Screen when user tap the Gallery option to select the traffic sign, this screen is shown to select and upload the image for processing_
+
 ![Select Sign From Gallery](./mobileApp/11-Select_Image.jpg)
 
 ## CROP IMAGE
@@ -60,6 +63,7 @@ _User can hear the generated Sign Name. Two accents of English is added and when
 
 ## SIGNS GUIDE
 _From the home screen user can navigate to this screen where information of different sign is presented. This screen is demonstration of using Horizontal Navbar_
+
 ![Signs Guide](./mobileApp/16-Signs_Info.jpg)
 
 ## PROFILE SCREEN
@@ -72,10 +76,12 @@ _At this screen user can edit the profile. This screen is integrated with Fireba
 
 ## CHANGE PROFILE PHOTO
 _In the edit profile page when user wants to change his profile photo the bottom sheet is show. He can either upload picture from gallery or take picture using cellphone camera. The selected image is updated in the UI_
+
 ![Change Profile Photo](./mobileApp/19-Profile_Photo.jpg)
 
 ## USER FEEDBACK
 _From the app drawer when user tap Rate our App. the following screens are shown and the user feedback is sent and stored in Firebase for the logged in user_
+
 ![Rate](./mobileApp/20-Rate.jpg)
 
 ![Stars](./mobileApp/21-Stars.jpg)
@@ -88,6 +94,7 @@ _This is a static screen which shows information about the developers and about 
 
 ## SETTINGS PAGE
 _App settings screen where user can manage application settings like location access, dark mode (not implementd) and other settings. This screen demonstrates what basic application settings page look like_
+
 ![App Settings](./mobileApp/24-Settings.jpg)
 
 ## CONTACT PAGE
