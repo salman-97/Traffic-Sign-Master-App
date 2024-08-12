@@ -10,5 +10,6 @@ _Flask Api running on terminal_
 ![Api Running 1](../Screenshots/api/ML%201.jpg)
 
 _API exposed and running on ngroK_
+
 ![Api Running 2](../Screenshots/api/ML%202.jpg)
 
