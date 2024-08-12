@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824516053496",
+    "project_id": "tsm-auth",
+    "storage_bucket": "tsm-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824516053496:android:6f65617aab5f535fe6ae0d",
+        "android_client_info": {
+          "package_name": "com.example.fyp_traffic_sign_master"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAby7KHh4vLp-lpvjka4oPce6TFkX8s-RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
