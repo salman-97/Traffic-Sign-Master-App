@@ -51,6 +51,7 @@ _When the user select the sign image, this screen is there to allow the user to 
 
 ## CROP OUT
 _After cropping the image this screen is shown_
+
 ![Cropped Traffic Sign](./mobileApp/13-Crop_out.jpg)
 
 ## OUTPUT OF THE ALGORITHM
