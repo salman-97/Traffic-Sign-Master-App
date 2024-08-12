@@ -103,8 +103,10 @@ _This page has forum which user can use and contact us. This page is also integr
 
 ## PRIVACY POLICY
 _This is a static screen which shows app privacy and policy_
+
 ![App Policy](./mobileApp/26-Policy.jpg)
 
 ## APPLICATION ICON
 _My application Icon on Android_
+
 ![App Icon](./mobileApp/27-App_icon.jpg)
